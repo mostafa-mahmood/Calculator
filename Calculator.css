@@ -132,8 +132,8 @@ body{
         height: 80%;
     }
     .buttons button{
-        width: 100px;
-        height: 100px;
+        width: 70px;
+        height: 70px;
     }
     .numbers{
         column-gap: 5px;
